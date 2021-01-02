@@ -4,7 +4,7 @@ I'm John - Data Scientist at STATWORX. This is my personal repository containing
 
 ### :robot: Techstack
 
-While having a R background my personal projects focus more on Python. I'm especially curious about unleashing the full capabilities of R and Python using container technologies such as Docker, Kubernetes and web-frameworks such as FastAPI. I also gathered some front-end development experience by using RShiny and Python Streamlit.
+While having a R background my personal projects focus more on Python. I'm especially curious about unleashing the full capabilities of R and Python using container technologies such as Docker and Kubernetes, web-frameworks such as FastAPI and building insightful frontends using RShiny, Python Streamlit and Svelte.
 
 ### :mortar_board: Academia
 
