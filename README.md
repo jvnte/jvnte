@@ -2,6 +2,8 @@
 
 I'm John - a ML Engineer. This is my personal repository containing some small side project of mine.
 
+I like to develop end-to-end AI solutions that help in human decision-making. I'm convinced that AI can only unfold it's true potential if we put the value generating aspects at the center. For that it's not only about the modeling decision and model KPI's, but about the surrounding technologies. Stable and scalable MLOps pipelines allowing to gain insights in the model creation process are crucial for gaining trust in ML solutions. 
+
 ### :mortar_board: Academia
 
 My background is a combination of business, informatics and statistics.
