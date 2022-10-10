@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I'm John - Data Scientist at STATWORX. This is my personal repository containing some small side project of mine. My passion lies in building applications for non-tech users, that allows them to get insights into their data. 
-
-### :robot: Techstack
-
-While having a R background my professional and personal projects focus more on Python nowadays. My current focus lies in delivering big data ML and DL use cases using PySpark for ETL and PyTorch, TensorFlow and MXNet for modelling, by also ensuring proper scalabilty using cloud technologies (AWS EMR, SageMaker and S3). Within the full-stack development area I frequently applied web-frameworks such as FastAPI for building model API's and build insightful frontends using RShiny and Python Streamlit. I am also familiar with HTML, CSS and JavaScript.
+I'm John - a ML Engineer. This is my personal repository containing some small side project of mine.
 
 ### :mortar_board: Academia
 
