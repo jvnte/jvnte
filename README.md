@@ -10,7 +10,7 @@ My background is a combination of business, informatics and statistics.
 
 ### :telephone_receiver: Get in contact
 
-Find me on [LinkedIn](https://www.linkedin.com/in/john-vicente-9a64a1b3/).
+Find me on [my website](https://www.johnvicente.de/).
 
 <!--
 **jvnte/jvnte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
