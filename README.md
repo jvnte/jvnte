@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm John. This is my personal repository containing some small side project of mine.
+I'm John.
 
 I like to develop end-to-end AI solutions that help in human decision-making. I'm convinced that AI can only unfold it's true potential if we put the value generating aspects at the center. For that it's not only about the modeling decision and model KPI's, but about the surrounding technologies.
 
